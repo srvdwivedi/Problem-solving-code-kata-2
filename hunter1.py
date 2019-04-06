@@ -16,7 +16,7 @@ else:
                     x[z]=0
                     count=count+1
             if count!=0:
-                print (int(x[i].rstrip()),end =" ")
+                print(int(x[i].strip()),end=" ")
                 c=c+1
     if c==0:
         print("unique")
