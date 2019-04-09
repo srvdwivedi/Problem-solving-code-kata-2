@@ -1,5 +1,5 @@
 m=input()
-m=int(n)
+m=int(m)
 a=2
 if m==18:
     print(3)
