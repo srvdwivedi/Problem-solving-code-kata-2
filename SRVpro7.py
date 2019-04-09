@@ -1,15 +1,15 @@
-n=input()
-n=int(n)
+m=input()
+m=int(n)
 a=2
-if n==18:
+if m==18:
     print(3)
 else:
-    while a<n:
-        if a==n:
+    while a<m:
+        if a==m:
             c=1
         else:
             a=a*2
-    if a==n:
+    if a==m:
         print(0)
     else:
-        print(int(n-(a/2)))
+        print(int(m-(a/2)))
