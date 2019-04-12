@@ -1,7 +1,7 @@
-n = [input()]
-r = n
-n.reverse()
-if (r==n):
+m = [input()]
+s = m
+m.reverse()
+if (s==m):
     print("YES")
 else:
     print("NO")
