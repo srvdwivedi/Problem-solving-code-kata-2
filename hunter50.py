@@ -1,7 +1,7 @@
 gg=input()
 gg=gg.split()
-aa=int(g[0])
-bb=int(g[1])
+aa=int(gg[0])
+bb=int(gg[1])
 pp=0
 if(bb>aa):
     print("0")
