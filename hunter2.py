@@ -1,0 +1,5 @@
+gg=int(input())
+hh=input()
+hh=hh.split()
+hh.sort(reverse=True)
+print(*hh,sep='')
