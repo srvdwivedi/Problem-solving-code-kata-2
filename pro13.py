@@ -1,5 +1,5 @@
 aa,bb=map(int,input().split())
-ll=list(map(int,input().split()))
+l=list(map(int,input().split()))
 l1=[]
 for i in range(bb):
     cc=list(map(int,input().split()))
